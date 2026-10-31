@@ -9,7 +9,7 @@ which lane — before any real work happens. This repo builds that idea up from 
 consistent example: a personal assistant that routes between **weather**,
 **math**, and **general** lanes.
 
-> 📝 Companion article: *(add your Medium link here once published)*
+> 📝 Companion article: *[(add your Medium link here once published)](https://medium.com/gitconnected/router-agents-building-intelligent-ai-systems-that-choose-the-right-tool-or-agent-with-python-9605005fefd9)*
 
 ---
 

@@ -8,7 +8,7 @@ result, and loops until it can answer. This repo shows that exact loop four
 ways — from a hand-written `while` loop up to the one-line production version —
 so you can see that they're all the same idea at different altitudes.
 
-> 📝 Companion article: *(add your Medium link here once published)*
+> 📝 Companion article: *[(add your Medium link here once published)](https://medium.com/ai-in-plain-english/react-agents-explained-reasoning-acting-in-ai-agents-with-python-langgraph-b11dab5f790c)*
 
 ---
 
